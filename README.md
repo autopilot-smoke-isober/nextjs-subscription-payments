@@ -261,3 +261,4 @@ Afterward, you will need to rebuild your production deployment for the changes t
 To verify you are running in production mode, test checking out with the [Stripe test card](https://stripe.com/docs/testing). The test card should not work.
 
 <!-- change-impact smoke 2026-10-27 -->
+<!-- change-impact smoke 2, fresh advisories -->
