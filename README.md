@@ -262,3 +262,5 @@ To verify you are running in production mode, test checking out with the [Stripe
 
 <!-- change-impact smoke 2026-10-27 -->
 <!-- change-impact smoke 2, fresh advisories -->
+
+<!-- autopilot smoke sample 2026-10-28T1953Z -->
